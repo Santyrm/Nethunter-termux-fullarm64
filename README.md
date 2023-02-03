@@ -8,7 +8,7 @@ pkg update && pkg upgrade -y
 pkg instal wget
 pkg install curl
 pkg install git
-git clone
+git clone https://github.com/Santyrm/Nethunter-termux-fullarm64
 cd install-nethunter-termux
 chmod +x install-nethunter-termux
 bash install-nethunter-termux
